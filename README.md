@@ -93,10 +93,10 @@ If you are learning Rust, you can:
 
 ## 🔗 Helpful Resources
 
-[The Rust Programming Language Book](https://doc.rust-lang.org/book/) 
-[rustlings](https://rustlings.rust-lang.org/) 
-[crates.io](https://crates.io/) 
-[docs.rs](https://docs.rs/) 
+- [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
+- [rustlings](https://rustlings.rust-lang.org/)
+- [crates.io](https://crates.io/)
+- [docs.rs](https://docs.rs/)
 
 ---
 
